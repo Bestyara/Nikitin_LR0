@@ -8,5 +8,4 @@ int main()
     setlocale(LC_ALL, "Russian");// для вывода в консоль русских символов
     cout << "Введите символ: ";
     cin >> a;
-
 }
